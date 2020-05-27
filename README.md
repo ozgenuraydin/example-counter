@@ -1,2 +1,2 @@
 # example-counter
-counter app 
+counter example with react
