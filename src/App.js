@@ -26,7 +26,7 @@ decrement =()=>{
         const {count}=this.state;
         return (
             <div className="App">
-                <h1>COUNTER APP</h1>
+                <h1>⏳ COUNTER APP⏳</h1>
                 <p>{count} </p>
                 <button onClick={this.increment}>+</button>
                 <button onClick={this.decrement} >-</button>
